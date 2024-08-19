@@ -1,2 +1,3 @@
 *.pem
 dkim-record.txt
+gendkim
